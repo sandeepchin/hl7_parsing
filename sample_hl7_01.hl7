@@ -1,0 +1,90 @@
+MSH|^~\&|VAMS|4291|HIR|HIR|20210616000513+0000||VXU^V04^VXU_V04|VAMS-20210614-VXU04-a0Zt0000008Z1Gyyf0|P|2.5.1|||ER|AL|||||Z22^CDCPHINVS|
+PID|1||001t000000gug3t^^^VAMS^MR||Cooper^Sheldon^^^^^L||19800410|M||2028-9^Asian^CDCREC~2076-8^Native Hawaiian or Pacific Islander^CDCREC~2079-2^Native Hawaiian^CDCREC~2036-2^Filipino^CDCREC|280 Home st^^Enterprise city^CA^91148^USA^L^^||^^^^^~^^^^^~|||||||||2186-5^Not Hispanic or Latino^CDCREC||
+PD1||||||||||||N|20210614
+ORC|RE||a0Zt0000008Z1Gyyf0^VAMS|||||||003t000000jNNF1^Carrie^Fisher|||||||
+RXA|0|1|20210614|20210614|208^COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose^CVX^59267-1000-01^^NDC|.3|mL^^UCUM||00^New Immunization Record^NIP001|003t000000jNNF1^Carrie^Fisher^^^^^^^^^^^^^^^^^^|^^^4291&C6300&L^^^^^288 Love St^^Enterprise city^CA^91178^USA||||EW0177|20210703|PFR^Pfizer Manufacturing Belgium NV^MVX|||CP|A|||||
+RXR|C28161^Intramuscular^NCIT|LA^Left Arm^HL70163
+OBX|1|CE|30963-3^Vaccine Funding Source^LN|1|VXC50^Public^CDCPHINVS||||||F|20210614||20210614
+OBX|2|CE|64994-7^Vaccine Funding Program Eligibility^LN|2|V01^Not VFC Eligible^HL70064||||||F|20210614||20210614|||VXC40^per immunization^CDCPHINVS
+OBX|3|NM|30973-2^Dose Number in Series^LN|3|2|NA^^HL70353|||||F|20210614||20210614
+MSH|^~\&|VAMS|10642|HIR|HIR|20210616000516+0000||VXU^V04^VXU_V04|VAMS-20210528-VXU04-a0Zt0000008NxPPOP0|P|2.5.1|||ER|AL|||||Z22^CDCPHINVS|
+PID|1||001t000000aBdoX^^^VAMS^MR||Lemonada^Primo^A^^^^L||19850202|F||2028-9^Asian^CDCREC~2036-2^Filipino^CDCREC|107 Knee St^^Jackson^MS^46952^USA^L^^||^PRN^PH^^^818^3457890~^PRN^CP^^^818^3999778~^NET^Internet^primetime@yahoo.com|||||||||2186-5^Not Hispanic or Latino^CDCREC||
+PD1||||||||||||N|20210528
+ORC|RE||a0Zt0000008NxPPOP0^VAMS|||||||003t000000loKAV^Quincy^Katamaran^^^^^^^^^^^^^^^^^^Other|||||||
+RXA|0|1|20210528|20210528|207^COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5 mL dose^CVX^80777-0273-10^^NDC|.5|mL^^UCUM||00^New Immunization Record^NIP001|003t000000loKAV^Quincy^Katamaran^^^^^^^^^^^^^^^^^^Other|^^^10642&C6230&L^^^^^99 West Street^^Waha^VT^10990^USA||||034C21A|20211029|MOD^Moderna US, Inc.^MVX|||CP|A|||||
+RXR|C28161^Intramuscular^NCIT|LA^Left Arm^HL70163
+OBX|1|CE|30963-3^Vaccine Funding Source^LN|1|VXC50^Public^CDCPHINVS||||||F|20210528||20210528
+OBX|2|CE|64994-7^Vaccine Funding Program Eligibility^LN|2|V01^Not VFC Eligible^HL70064||||||F|20210528||20210528|||VXC40^per immunization^CDCPHINVS
+OBX|3|NM|30973-2^Dose Number in Series^LN|3|2|NA^^HL70353|||||F|20210528||20210528
+MSH|^~\&|VAMS|10642|HIR|HIR|20210616000516+0000||VXU^V04^VXU_V04|VAMS-20210528-VXU04-a0Zt0000008NxPAPA0|P|2.5.1|||ER|AL|||||Z22^CDCPHINVS|
+PID|1||001t000000JJGtF^^^VAMS^MR||Saldana^Zoe^A^^^^L||19950302|F||2028-9^Asian^CDCREC~2036-2^Filipino^CDCREC|10 New Haven St^^New Haven^CT^10956^USA^L^^||^PRN^PH^^^202^1234567~^PRN^CP^^^501^2347865~^NET^Internet^zoocreature@yahoo.com|||||||||2186-5^Not Hispanic or Latino^CDCREC||
+PD1||||||||||||N|20210528
+ORC|RE||a0Zt0000008NxPAPA0^VAMS|||||||003t000000loKAV^Don^Papi^^^^^^^^^^^^^^^^^^Other|||||||
+RXA|0|1|20210528|20210528|207^COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5 mL dose^CVX^80777-0273-10^^NDC|.5|mL^^UCUM||00^New Immunization Record^NIP001|003t000000loKAV^Don^Papi^^^^^^^^^^^^^^^^^^Other|^^^10642&C6230&L^^^^^100 Highlow Rd^^Zooptopia^TN^79387^USA||||034C21A|20211029|MOD^Moderna US, Inc.^MVX|||CP|A|||||
+RXR|C28161^Intramuscular^NCIT|LA^Left Arm^HL70163
+OBX|1|CE|30963-3^Vaccine Funding Source^LN|1|VXC50^Public^CDCPHINVS||||||F|20210528||20210528
+OBX|2|CE|64994-7^Vaccine Funding Program Eligibility^LN|2|V01^Not VFC Eligible^HL70064||||||F|20210528||20210528|||VXC40^per immunization^CDCPHINVS
+OBX|3|NM|30973-2^Dose Number in Series^LN|3|2|NA^^HL70353|||||F|20210528||20210528
+MSH|^~\&|VAMS|10626|HIR|HIR|20210616000524+0000||VXU^V04^VXU_V04|VAMS-20210526-VXU04-a0Zt000000xxxcfcEAC|P|2.5.1|||ER|AL|||||Z22^CDCPHINVS|
+PID|1||001t000000fGulP^^^VAMS^MR||Agent^Double^^^^^L||19911120|M||2028-9^Asian^CDCREC~2076-8^Native Hawaiian or Pacific Islander^CDCREC~2079-2^Native Hawaiian^CDCREC~2039-6^Japanese^CDCREC|PO BOX 4^^Granola^LA^74903^USA^L^^15007||^^^^^~^^^^^~|||||||||2186-5^Not Hispanic or Latino^CDCREC||
+PD1||||||||||||N|20210526
+ORC|RE||a0Zt000000xxxcfcEAC^VAMS|||||||003t000000oulQy^Brew^Drew^^^^^^^^^^^^^^^^^^R.N.|||||||
+RXA|0|1|20210526|20210526|207^COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5 mL dose^CVX^80777-0273-10^^NDC|.5|mL^^UCUM||00^New Immunization Record^NIP001|003t000000oulQy^Brew^Drew^^^^^^^^^^^^^^^^^^R.N.|^^^10626&C6205E&L^^^^^9000 Mangrove St #45^^Los Angeles^CA^90210^USA||||025C21A|20211023|MOD^Moderna US, Inc.^MVX|||CP|A|||||
+RXR|C28161^Intramuscular^NCIT|LD^Left Deltoid^HL70163
+OBX|1|CE|30963-3^Vaccine Funding Source^LN|1|VXC50^Public^CDCPHINVS||||||F|20210526||20210526
+OBX|2|CE|64994-7^Vaccine Funding Program Eligibility^LN|2|V01^Not VFC Eligible^HL70064||||||F|20210526||20210526|||VXC40^per immunization^CDCPHINVS
+OBX|3|NM|30973-2^Dose Number in Series^LN|3|2|NA^^HL70353|||||F|20210526||20210526
+MSH|^~\&|VAMS|10626|HIR|HIR|20210616000524+0000||VXU^V04^VXU_V04|VAMS-20210526-VXU04-a0Zt0000008A08cEAB|P|2.5.1|||ER|AL|||||Z22^CDCPHINVS|
+PID|1||001t000000f0cpB^^^VAMS^MR||Momo^Paco^^^^^L||20061225|M||2028-9^Asian^CDCREC~2076-8^Native Hawaiian or Pacific Islander^CDCREC~2079-2^Native Hawaiian^CDCREC~2039-6^Japanese^CDCREC|PO BOX 399^^Manchuria^TX^76513^USA^L^^15007||^^^^^~^^^^^~|||||||||2186-5^Not Hispanic or Latino^CDCREC||
+PD1||||||||||||N|20210526
+ORC|RE||a0Zt0000008A08cEAB^VAMS|||||||003t000000oulQy^Up^Down^^^^^^^^^^^^^^^^^^R.N.|||||||
+RXA|0|1|20210526|20210526|207^COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5 mL dose^CVX^80777-0273-10^^NDC|.5|mL^^UCUM||00^New Immunization Record^NIP001|003t000000oulQy^Up^Down^^^^^^^^^^^^^^^^^^R.N.|^^^10626&C6205E&L^^^^^166 Prosper St^^Haka^WA^89748^USA||||025C21A|20211023|MOD^Moderna US, Inc.^MVX|||CP|A|||||
+RXR|C28161^Intramuscular^NCIT|LD^Left Deltoid^HL70163
+OBX|1|CE|30963-3^Vaccine Funding Source^LN|1|VXC50^Public^CDCPHINVS||||||F|20210526||20210526
+OBX|2|CE|64994-7^Vaccine Funding Program Eligibility^LN|2|V01^Not VFC Eligible^HL70064||||||F|20210526||20210526|||VXC40^per immunization^CDCPHINVS
+OBX|3|NM|30973-2^Dose Number in Series^LN|3|2|NA^^HL70353|||||F|20210526||20210526
+MSH|^~\&|VAMS|10626|HIR|HIR|20210616000524+0000||VXU^V04^VXU_V04|VAMS-20210526-VXU04-a0Zt0000008Y90bBAE|P|2.5.1|||ER|AL|||||Z22^CDCPHINVS|
+PID|1||001t000000g09aBe^^^VAMS^MR||Rudolph^Maya^^^^^L||19690401|F||2028-9^Asian^CDCREC~2076-8^Native Hawaiian or Pacific Islander^CDCREC~2079-2^Native Hawaiian^CDCREC~2039-6^Japanese^CDCREC|6700 Jump St^^New York City^NY^10090^USA^L^^15007||^^^^^~^^^^^~|||||||||2186-5^Not Hispanic or Latino^CDCREC||
+PD1||||||||||||N|20210526
+ORC|RE||a0Zt0000008Y90bBAE^VAMS|||||||003t000000ghlmm^Esther^Varghese^^^^^^^^^^^^^^^^^^R.N.|||||||
+RXA|0|1|20210526|20210526|207^COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5 mL dose^CVX^80777-0273-10^^NDC|.5|mL^^UCUM||00^New Immunization Record^NIP001|003t000000ghlmm^Esther^Varghese^^^^^^^^^^^^^^^^^^R.N.|^^^10626&C6205E&L^^^^^9000 St Louis Circle^^Raleigh^NC^56690^USA||||025C21A|20211023|MOD^Moderna US, Inc.^MVX|||CP|A|||||
+RXR|C28161^Intramuscular^NCIT|LD^Left Deltoid^HL70163
+OBX|1|CE|30963-3^Vaccine Funding Source^LN|1|VXC50^Public^CDCPHINVS||||||F|20210526||20210526
+OBX|2|CE|64994-7^Vaccine Funding Program Eligibility^LN|2|V01^Not VFC Eligible^HL70064||||||F|20210526||20210526|||VXC40^per immunization^CDCPHINVS
+OBX|3|NM|30973-2^Dose Number in Series^LN|3|2|NA^^HL70353|||||F|20210526||20210526
+MSH|^~\&|VAMS|4329|HIR|HIR|20210616000543+0000||VXU^V04^VXU_V04|VAMS-20210615-VXU04-a0Zt0000008Z18OCNN|P|2.5.1|||ER|AL|||||Z22^CDCPHINVS|
+PID|1||001t000000gD8xR^^^VAMS^MR||Cabrales^Aaron^^^^^L||19980101|M||~|309 La Marca Ave Apt 6789^^Albuquerque^NM^72009^USA^L^^||^^^^^~^^^^^~|||||||||^^||
+PD1||||||||||||N|20210615
+ORC|RE||a0Zt0000008Z18OCNN^VAMS|||||||003t000000m1ZXY^Mordor^Thea^^^^^^^^^^^^^^^^^^R.N.|||||||
+RXA|0|1|20210615|20210615|208^COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose^CVX^59267-1000-01^^NDC|.3|mL^^UCUM||00^New Immunization Record^NIP001|003t000000m1ZXY^Mordor^Thea^^^^^^^^^^^^^^^^^^R.N.|^^^4329&C6200A&L^^^^^1 Juicy Street.^^Barbados^OR^82109^USA||||EW0177|20210831|PFR^Pfizer Manufacturing Belgium NV^MVX|||CP|A|||||
+RXR|C28161^Intramuscular^NCIT|LD^Left Deltoid^HL70163
+OBX|1|CE|30963-3^Vaccine Funding Source^LN|1|VXC50^Public^CDCPHINVS||||||F|20210615||20210615
+OBX|2|CE|64994-7^Vaccine Funding Program Eligibility^LN|2|V01^Not VFC Eligible^HL70064||||||F|20210615||20210615|||VXC40^per immunization^CDCPHINVS
+OBX|3|NM|30973-2^Dose Number in Series^LN|3|2|NA^^HL70353|||||F|20210615||20210615
+MSH|^~\&|VAMS|10642|HIR|HIR|20210616000546+0000||VXU^V04^VXU_V04|VAMS-20210527-VXU04-a0Zt0000008PLOTebK|P|2.5.1|||ER|AL|||||Z22^CDCPHINVS|
+PID|1||001t000000farmD^^^VAMS^MR||Rodriguez^Maria^^^^^L||19920629|F||2106-3^White^CDCREC~|548 Flabbergast st Apt Q^^Honda city^CA^95667^USA^L^^||^PRN^PH^^^518^3394000~^PRN^CP^^^212^8094521~^NET^Internet^mariarod@yahoomail.com|||||||||2186-5^Not Hispanic or Latino^CDCREC||
+PD1||||||||||||N|20210527
+ORC|RE||a0Zt0000008PLOTebK^VAMS|||||||003t000000kkdfr^Jacoby^Johnson^^^^^^^^^^^^^^^^^^Other|||||||
+RXA|0|1|20210527|20210527|212^COVID-19 vaccine, vector-nr, rS-Ad26, PF, 0.5 mL^CVX^59676-0580-05^^NDC|.5|mL^^UCUM||00^New Immunization Record^NIP001|003t000000kkdfr^Jacoby^Johnson^^^^^^^^^^^^^^^^^^Other|^^^10642&C6230&L^^^^^45 S. Beta Street^^Alphabet^CA^95332^USA||||201A21A|20210623|JSN^Janssen Products, LP^MVX|||CP|A|||||
+RXR|C28161^Intramuscular^NCIT|LD^Left Deltoid^HL70163
+OBX|1|CE|30963-3^Vaccine Funding Source^LN|1|VXC50^Public^CDCPHINVS||||||F|20210527||20210527
+OBX|2|CE|64994-7^Vaccine Funding Program Eligibility^LN|2|V01^Not VFC Eligible^HL70064||||||F|20210527||20210527|||VXC40^per immunization^CDCPHINVS
+OBX|3|NM|30973-2^Dose Number in Series^LN|3|1|NA^^HL70353|||||F|20210527||20210527
+MSH|^~\&|VAMS|4329|HIR|HIR|20210616000551+0000||VXU^V04^VXU_V04|VAMS-20210615-VXU04-a0Zt0000008L1bugGY|P|2.5.1|||ER|AL|||||Z22^CDCPHINVS|
+PID|1||001t000000gidle^^^VAMS^MR||Mai^Kao Son^^^^^L||20000923|M||2028-9^Asian^CDCREC~|947 Meow Meow St^^Meow Mix^IL^67890^USA^L^^||^^^^^~^^^^^~|||||||||2186-5^Not Hispanic or Latino^CDCREC||
+PD1||||||||||||N|20210615
+ORC|RE||a0Zt0000008L1bugGY^VAMS|||||||003t000000hQKYX^Bunda^Nalla^^^^^^^^^^^^^^^^^^R.N.|||||||
+RXA|0|1|20210615|20210615|208^COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose^CVX^59267-1000-01^^NDC|.3|mL^^UCUM||00^New Immunization Record^NIP001|003t000000hQKYX^Bunda^Nalla^^^^^^^^^^^^^^^^^^R.N.|^^^4329&C6200A&L^^^^^53908 Rowdy St^^Maccaron^NV^90922^USA||||EW0177|20210831|PFR^Pfizer Manufacturing Belgium NV^MVX|||CP|A|||||
+RXR|C28161^Intramuscular^NCIT|LD^Left Deltoid^HL70163
+OBX|1|CE|30963-3^Vaccine Funding Source^LN|1|VXC50^Public^CDCPHINVS||||||F|20210615||20210615
+OBX|2|CE|64994-7^Vaccine Funding Program Eligibility^LN|2|V01^Not VFC Eligible^HL70064||||||F|20210615||20210615|||VXC40^per immunization^CDCPHINVS
+OBX|3|NM|30973-2^Dose Number in Series^LN|3|2|NA^^HL70353|||||F|20210615||20210615
+MSH|^~\&|VAMS|10583|HIR|HIR|20210616000601+0000||VXU^V04^VXU_V04|VAMS-20210615-VXU04-a0Zt0000008KeTuCky|P|2.5.1|||ER|AL|||||Z22^CDCPHINVS|
+PID|1||001t000000HTXTST^^^VAMS^MR||Siddhartha^Smitha^^^^^L||19901020|F||2028-9^Asian^CDCREC~2029-7^Asian Indian^CDCREC|9967 Neurosurgeon St ^^Lubbock^TX^79415^USA^L^^15003||^PRN^PH^^^919^6723900~^PRN^CP^^^919^3400873~^NET^Internet^notyouraveragesurgeon@gmail.com|||||||||^^||
+PD1||||||||||||N|20210615
+ORC|RE||a0Zt0000008KeTuCky^VAMS|||||||003t000000ebbCC^Chook^Eagle Eye^^^^^^^^^^^^^^^^^^Other|||||||
+RXA|0|1|20210615|20210615|207^COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5 mL dose^CVX^80777-0273-10^^NDC|.5|mL^^UCUM||00^New Immunization Record^NIP001|003t000000ebbCC^Chook^Eagle Eye^^^^^^^^^^^^^^^^^^Other|^^^10583&C6204&L^^^^^112 Panda Street^^Pablo^CA^93890^USA||||023C21A|20211024|MOD^Moderna US, Inc.^MVX|||CP|A|||||
+RXR|C28161^Intramuscular^NCIT|LA^Left Arm^HL70163
+OBX|1|CE|30963-3^Vaccine Funding Source^LN|1|VXC50^Public^CDCPHINVS||||||F|20210615||20210615
+OBX|2|CE|64994-7^Vaccine Funding Program Eligibility^LN|2|V01^Not VFC Eligible^HL70064||||||F|20210615||20210615|||VXC40^per immunization^CDCPHINVS
+OBX|3|NM|30973-2^Dose Number in Series^LN|3|2|NA^^HL70353|||||F|20210615||20210615
