@@ -1,6 +1,7 @@
 
 # Program to demonstrate parsing of hl7 file.
 # The format used is VXU 2.5.1 which is a Vaccine Message
+# Author: Sandeep Chintabathina
 
 import hl7
 import pandas as pd
@@ -8,14 +9,12 @@ import pandas as pd
 #Function to gather multiple race codes and place in dictionary
 def get_race_codes(record,data):
     race_str = str(record.segment('PID')[10])
-    #print(race_str)
     # Split repetitions
     tokens = race_str.split('~')
     # Process each race str
     for i in range(0,len(tokens)):
         if (len(tokens[i])>0):
             tokens2 = tokens[i].split('^')
-            #print(tokens2)
             data['patient_race_code_'+str(i+1)] = tokens2[0]
             data['patient_race_name_'+str(i+1)] = tokens2[1]
     return data
@@ -23,10 +22,8 @@ def get_race_codes(record,data):
 #Function to gather phone and email data
 def get_phone_email(record,data):
     phone_str = str(record.segment('PID')[13])
-    print(phone_str)
     #Split repetitions
     tokens = phone_str.split('~')
-    
     #Process phone numbers
     for i in range(0,len(tokens)-1):
         area_code=ph_num=''
@@ -46,6 +43,7 @@ def get_phone_email(record,data):
     
     return data
     '''
+    #Less generic solution
     area_code=ph_num=''
     if record['PID.13.1.6']!='':
         area_code ='('+record['PID.13.1.6']+')'
@@ -101,7 +99,7 @@ def create_dict(record):
 def main(data):
     tokens = data.split('MSH|^~\&|')
     count = 0
-    # First token is empty string
+    # First token is empty string - so ignore it
     #Store records in a list
     records=[]
     for i in range(1,len(tokens)):
@@ -110,15 +108,19 @@ def main(data):
         count+=1
         #print(record['PID.5.1.2']+' '+record['PID.5.1.1'])
         # Unable to convert hl7 container object into a dictionary directly
+        # So creating a custom dictionary instead
         some_dict = create_dict(record)
         records.append(some_dict)
-        
+    
+    print("Parsed",count,'records')
+    # Convert to a dataframe and output in tabular format
     df=pd.DataFrame(records)
     df.to_csv('tabular_output.csv',index=False,columns=records[0].keys())
-        
-    print("Parsed",count,'records')
+    print('Done writing to file')
     
 if __name__=='__main__':
     fp = open('sample_hl7_01.hl7')
     data = fp.read()
     main(data)
+    
+# End of program
