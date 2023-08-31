@@ -80,7 +80,7 @@ OBX|1|CE|30963-3^Vaccine Funding Source^LN|1|VXC50^Public^CDCPHINVS||||||F|20210
 OBX|2|CE|64994-7^Vaccine Funding Program Eligibility^LN|2|V01^Not VFC Eligible^HL70064||||||F|20210615||20210615|||VXC40^per immunization^CDCPHINVS
 OBX|3|NM|30973-2^Dose Number in Series^LN|3|2|NA^^HL70353|||||F|20210615||20210615
 MSH|^~\&|VAMS|10583|HIR|HIR|20210616000601+0000||VXU^V04^VXU_V04|VAMS-20210615-VXU04-a0Zt0000008KeTuCky|P|2.5.1|||ER|AL|||||Z22^CDCPHINVS|
-PID|1||001t000000HTXTST^^^VAMS^MR||Siddhartha^Smitha^^^^^L||19901020|F||2028-9^Asian^CDCREC~2029-7^Asian Indian^CDCREC|9967 Neurosurgeon St ^^Lubbock^TX^79415^USA^L^^15003||^PRN^PH^^^919^6723900~^PRN^CP^^^919^3400873~^NET^Internet^notyouraveragesurgeon@gmail.com|||||||||^^||
+PID|1||001t000000HTXTST^^^VAMS^MR||Biryani^Smitha^^^^^L||19901020|F||2028-9^Asian^CDCREC~2029-7^Asian Indian^CDCREC|9967 Neurosurgeon St ^^Lubbock^TX^79415^USA^L^^15003||^PRN^PH^^^919^6723900~^PRN^CP^^^919^3400873~^NET^Internet^notyouraveragesurgeon@gmail.com|||||||||^^||
 PD1||||||||||||N|20210615
 ORC|RE||a0Zt0000008KeTuCky^VAMS|||||||003t000000ebbCC^Chook^Eagle Eye^^^^^^^^^^^^^^^^^^Other|||||||
 RXA|0|1|20210615|20210615|207^COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5 mL dose^CVX^80777-0273-10^^NDC|.5|mL^^UCUM||00^New Immunization Record^NIP001|003t000000ebbCC^Chook^Eagle Eye^^^^^^^^^^^^^^^^^^Other|^^^10583&C6204&L^^^^^112 Panda Street^^Pablo^CA^93890^USA||||023C21A|20211024|MOD^Moderna US, Inc.^MVX|||CP|A|||||
