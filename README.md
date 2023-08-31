@@ -12,7 +12,7 @@
 Dig deeper, check [python-hl7 documentation](https://readthedocs.org/projects/python-hl7/downloads/pdf/latest/)
 
 ### Running code
-    `python hl7_parsing_demo.py`
+    python hl7_parsing_demo.py
    
 ### Dependencies
 1. A HL7 file containing possibly multiple hl7 messages. Use the provided *sample_hl7_01.hl7* file.
